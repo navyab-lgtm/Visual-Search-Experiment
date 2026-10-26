@@ -1,0 +1,163 @@
+10.1165 	INFO 	Loaded monitor calibration from ['2026_08_24 21:08']
+10.3260 	INFO 	Using renderer 'Intel(R) Iris(R) Xe Graphics' for graphics
+10.3260 	INFO 	OpenGL version supported by driver is 4..
+10.3559 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001FF45015C00>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001FF45015180>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=False, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001FF45A5BEE0>, multiSample=False, name='window1', numSamples=2, pos=[np.float64(448.0), np.float64(156.0)], screen=0, size=array([1024,  768]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+10.3560 	EXP 	window1: backgroundImage = ''
+10.3561 	EXP 	window1: backgroundFit = 'none'
+10.6755 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+10.6755 	EXP 	window1: recordFrameIntervals = False
+10.8358 	EXP 	window1: recordFrameIntervals = True
+12.5026 	EXP 	window1: recordFrameIntervals = False
+12.5027 	EXP 	Screen (0) actual frame rate measured at 59.85Hz
+12.5512 	INFO 	keyboard.Keyboard is using ptb backend.
+12.5512 	EXP 	visual search experiment: status = STARTED
+12.5549 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=0.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+12.6108 	EXP 	Created target = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-1.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='target', opacity=1, ori=0.0, pos=array([0., 0.]), rgb=UNKNOWN, text='T', units='height', win=Window(...), wrapWidth=1)
+0.0077 	EXP 	New trial (rep=0, index=0): <Trial 0 (0 in rep 0) data={'thisN': 0, 'thisTrialN': 0, 'thisRepN': 0}>
+0.0107 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=103, pos=array([-0.28026461,  0.0450303 ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0123 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=75, pos=array([-0.12250354,  0.39002458]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0137 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=63, pos=array([-0.00675619,  0.10935698]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0151 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=157, pos=array([-0.02606342,  0.16884882]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0164 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=277, pos=array([-0.35757887, -0.06151554]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+0.0240 	EXP 	distractor: autoDraw = True
+0.0240 	EXP 	distractor: autoDraw = True
+0.0240 	EXP 	distractor: autoDraw = True
+0.0240 	EXP 	distractor: autoDraw = True
+0.0240 	EXP 	distractor: autoDraw = True
+0.0240 	EXP 	fixation: autoDraw = True
+0.0240 	EXP 	target: autoDraw = True
+1.0251 	EXP 	fixation: autoDraw = False
+2.2747 	DATA 	Mouse: Left button down, pos=(257,708)
+2.2760 	EXP 	New trial (rep=1, index=0): <Trial 1 (0 in rep 1) data={'thisN': 1, 'thisTrialN': 0, 'thisRepN': 1}>
+2.2791 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=49, pos=array([-0.33593142,  0.28172494]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2805 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=294, pos=array([-0.42664445, -0.30970728]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2818 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=356, pos=array([ 0.4331874 , -0.39594848]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2832 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=2, pos=array([-0.43786974,  0.24347726]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2846 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=271, pos=array([ 0.22051939, -0.25161992]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2860 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=150, pos=array([-0.07998503,  0.31757291]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2874 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=212, pos=array([-0.23891422, -0.23255156]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2888 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=42, pos=array([-0.41988978, -0.02264856]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2906 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=116, pos=array([0.43701495, 0.14824949]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.2920 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=6, pos=array([0.32688979, 0.08322636]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+2.3069 	EXP 	fixation: autoDraw = False
+2.3069 	EXP 	target: autoDraw = False
+2.3069 	EXP 	distractor: autoDraw = False
+2.3069 	EXP 	distractor: autoDraw = False
+2.3069 	EXP 	distractor: autoDraw = False
+2.3069 	EXP 	distractor: autoDraw = False
+2.3069 	EXP 	distractor: autoDraw = False
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	distractor: autoDraw = True
+2.3069 	EXP 	fixation: autoDraw = True
+2.3069 	EXP 	target: autoDraw = True
+2.4914 	DATA 	Mouse:  Left button up, pos=(257,708)
+3.3076 	EXP 	fixation: autoDraw = False
+4.8573 	DATA 	Mouse: Left button down, pos=(634,255)
+4.8579 	EXP 	New trial (rep=2, index=0): <Trial 2 (0 in rep 2) data={'thisN': 2, 'thisTrialN': 0, 'thisRepN': 2}>
+4.8601 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=247, pos=array([-0.26421653, -0.36231222]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+4.8617 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=98, pos=array([-0.39472689, -0.44902197]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+4.8631 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=250, pos=array([-0.28767306,  0.34435195]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+4.8644 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=223, pos=array([-0.2672194 ,  0.08379219]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+4.8659 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=115, pos=array([0.36383242, 0.37105862]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+4.8735 	EXP 	fixation: autoDraw = False
+4.8735 	EXP 	target: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = False
+4.8735 	EXP 	distractor: autoDraw = True
+4.8735 	EXP 	distractor: autoDraw = True
+4.8735 	EXP 	distractor: autoDraw = True
+4.8735 	EXP 	distractor: autoDraw = True
+4.8735 	EXP 	distractor: autoDraw = True
+4.8735 	EXP 	fixation: autoDraw = True
+4.8735 	EXP 	target: autoDraw = True
+5.0763 	DATA 	Mouse:  Left button up, pos=(634,255)
+5.8740 	EXP 	fixation: autoDraw = False
+6.6435 	DATA 	Mouse: Left button down, pos=(198,445)
+6.6589 	EXP 	New trial (rep=3, index=0): <Trial 3 (0 in rep 3) data={'thisN': 3, 'thisTrialN': 0, 'thisRepN': 3}>
+6.6631 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=7, pos=array([-0.30787734,  0.03050176]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6646 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=354, pos=array([0.47629171, 0.1170006 ]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6659 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=315, pos=array([ 0.11706881, -0.45956098]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6673 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=285, pos=array([ 0.19372307, -0.47591922]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6687 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=122, pos=array([0.25481164, 0.05672562]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6702 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=182, pos=array([0.25658212, 0.04752228]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6716 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=6, pos=array([ 0.42901412, -0.06162354]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6732 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=253, pos=array([-0.37701714, -0.09303717]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6746 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=138, pos=array([-0.03389312, -0.26474717]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6761 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=42, pos=array([0.18544609, 0.19266276]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+6.6895 	EXP 	fixation: autoDraw = False
+6.6895 	EXP 	target: autoDraw = False
+6.6895 	EXP 	distractor: autoDraw = False
+6.6895 	EXP 	distractor: autoDraw = False
+6.6895 	EXP 	distractor: autoDraw = False
+6.6895 	EXP 	distractor: autoDraw = False
+6.6895 	EXP 	distractor: autoDraw = False
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	distractor: autoDraw = True
+6.6895 	EXP 	fixation: autoDraw = True
+6.6895 	EXP 	target: autoDraw = True
+6.8743 	DATA 	Mouse:  Left button up, pos=(198,445)
+7.6903 	EXP 	fixation: autoDraw = False
+8.6244 	DATA 	Mouse: Left button down, pos=(783,302)
+8.6255 	EXP 	New trial (rep=4, index=0): <Trial 4 (0 in rep 4) data={'thisN': 4, 'thisTrialN': 0, 'thisRepN': 4}>
+8.6295 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=104, pos=array([-0.41744829,  0.04359114]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6318 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=313, pos=array([-0.41524246, -0.19287825]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6336 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=123, pos=array([ 0.24702231, -0.45942871]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6351 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=2, pos=array([0.02638122, 0.27941921]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6364 	EXP 	Created distractor = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz=method-wrapper(...), alignText='center', alignVert=method-wrapper(...), anchorHoriz='center', anchorVert='center', antialias=True, autoDraw=False, autoLog=True, bold=False, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, draggable=False, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=np.float64(0.05000000000000001), italic=False, languageStyle='LTR', name='distractor', opacity=1, ori=216, pos=array([-0.10980821, -0.11485518]), rgb=UNKNOWN, text='L', units='height', win=Window(...), wrapWidth=1)
+8.6558 	EXP 	fixation: autoDraw = False
+8.6558 	EXP 	target: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = False
+8.6558 	EXP 	distractor: autoDraw = True
+8.6558 	EXP 	distractor: autoDraw = True
+8.6558 	EXP 	distractor: autoDraw = True
+8.6558 	EXP 	distractor: autoDraw = True
+8.6558 	EXP 	distractor: autoDraw = True
+8.6558 	EXP 	fixation: autoDraw = True
+8.6558 	EXP 	target: autoDraw = True
+8.8414 	DATA 	Mouse:  Left button up, pos=(783,302)
+9.6570 	EXP 	fixation: autoDraw = False
+10.9069 	DATA 	Mouse: Left button down, pos=(463,167)
+10.9234 	EXP 	fixation: autoDraw = False
+10.9234 	EXP 	target: autoDraw = False
+10.9234 	EXP 	distractor: autoDraw = False
+10.9234 	EXP 	distractor: autoDraw = False
+10.9234 	EXP 	distractor: autoDraw = False
+10.9234 	EXP 	distractor: autoDraw = False
+10.9234 	EXP 	distractor: autoDraw = False
+10.9236 	EXP 	visual search experiment: status = STOPPED
+10.9331 	INFO 	saved data to 'C:\\Users\\Navya\\OneDrive\\Desktop\\Lab in Psych\\Visual Search\\data\\nav_visual search experiment_2026-10-16_13h27.46.455.csv'
+10.9341 	INFO 	saved data to C:\Users\Navya\OneDrive\Desktop\Lab in Psych\Visual Search\data\nav_visual search experiment_2026-10-16_13h27.46.455.psydat
+11.1864 	INFO 	Stopping keyboard key buffers.
